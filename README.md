@@ -1,1 +1,2 @@
-Prueba para README
+Programación orientada a objetos 
+Felipe Ulloa
